@@ -1,5 +1,5 @@
 # Job App - Monolithic
-Aplicație web realizată în Java (Spring Boot) și React, pentru disciplina **Aplicații Web pentru Baze de Date** – Master, Anul I (2025).
+Aplicație web realizată folosind stack-ul Java (Spring Boot) pentru backend, React pentru frontend și PostgreSQL ca bază de date.
  
 ## Autor
 Cristea Bianca-Ștefania
