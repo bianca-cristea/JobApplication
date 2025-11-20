@@ -1,4 +1,4 @@
-# Job App - Monolithic
+# Job App
 Aplicație web realizată folosind stack-ul Java (Spring Boot) pentru backend, React pentru frontend și PostgreSQL ca bază de date.
  
 ## Autor
